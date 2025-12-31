@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hello ! <br>This is Aditya Dongare an Apiring Devops Engineer <br>Skilled in Linux, AWS, Docker, Kubernetes, Terraform,Jenkins 
+Hello ! <br>This is Aditya Dongare a Devops Engineer <br>Skilled in Linux, AWS, Docker, Kubernetes, Terraform,Jenkins,git and github
+
 
 
 ## 🌐 Socials:
